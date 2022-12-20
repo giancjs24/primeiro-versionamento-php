@@ -3,3 +3,6 @@ git status
 git add .
 git status
 git commit -m "primeiro site html"
+git branch -M main
+git remote add origin https://github.com/giancjs24/primeiro-versionamento-php.git
+git push -u origin main
