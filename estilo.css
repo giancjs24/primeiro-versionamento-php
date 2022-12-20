@@ -1,0 +1,28 @@
+body{
+    background-color: dodgerblue;
+    ;
+    text-align: center;
+}
+
+h1{
+   color: rgb(0, 0, 0);
+   text-decoration: underline;
+   font-family: arial;  
+}
+
+p{
+    font-family: arial;
+}
+
+img{
+    width: 400px;
+
+}
+
+li{
+    font-size: 20px;
+}
+ul,ol{
+    width: fit-content;
+    margin: 0 auto;
+}
